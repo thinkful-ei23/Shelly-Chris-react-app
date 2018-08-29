@@ -5,7 +5,7 @@ export default function dropDown(props) {
     <div>
       <h1>Calendar</h1>
       <form>
-        <label>What problem do you want to solve</label>
+        <label>What problem do you want to solve?</label>
         <select name="existAppt" id="existing">
           <option>Hypotenuse for right triangle</option>
           <option selected="selected">Quadratic Formula</option>
