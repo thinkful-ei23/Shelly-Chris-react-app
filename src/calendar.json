@@ -1,0 +1,37 @@
+[
+	{
+			"day": "Monday",
+			"appointment": "None",
+			"description": ""
+	},
+	{
+			"day": "Tuesday",
+			"appointment": "03:45 PM",
+			"description": "Dentist"
+	},
+	{
+			"day": "Wednesday",
+			"appointment": "None",
+			"description": ""
+	},
+	{
+			"day": "Thursday",
+			"appointment": "12:00 PM",
+			"description": "Lunch with Kiefer Sutherland"
+	},
+	{
+			"day": "Friday",
+			"appointment": "09:00 PM",
+			"description": "David Bowie special on TV"
+	},
+	{
+			"day": "Saturday",
+			"appointment": "11:00 AM",
+			"description": "Brunch"
+	},
+	{
+			"day": "Sunday",
+			"appointment": "None",
+			"description": ""
+	}
+]
